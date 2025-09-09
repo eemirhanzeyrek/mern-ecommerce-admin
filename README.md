@@ -1,4 +1,4 @@
-# MERN E-Commerce Admin
+# MERN E-Commerce Admin Panel
 This project includes the admin panel codes of the e-commerce site developed as mern stack.
 
 ## Description
